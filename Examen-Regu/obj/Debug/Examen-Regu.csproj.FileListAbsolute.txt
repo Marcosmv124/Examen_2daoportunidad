@@ -1,0 +1,7 @@
+C:\Users\user1\OneDrive\Documentos\GitHub\Examen_2daoportunidad\Examen-Regu\bin\Debug\Examen-Regu.exe.config
+C:\Users\user1\OneDrive\Documentos\GitHub\Examen_2daoportunidad\Examen-Regu\bin\Debug\Examen-Regu.exe
+C:\Users\user1\OneDrive\Documentos\GitHub\Examen_2daoportunidad\Examen-Regu\bin\Debug\Examen-Regu.pdb
+C:\Users\user1\OneDrive\Documentos\GitHub\Examen_2daoportunidad\Examen-Regu\obj\Debug\Examen-Regu.csproj.AssemblyReference.cache
+C:\Users\user1\OneDrive\Documentos\GitHub\Examen_2daoportunidad\Examen-Regu\obj\Debug\Examen-Regu.csproj.CoreCompileInputs.cache
+C:\Users\user1\OneDrive\Documentos\GitHub\Examen_2daoportunidad\Examen-Regu\obj\Debug\Examen-Regu.exe
+C:\Users\user1\OneDrive\Documentos\GitHub\Examen_2daoportunidad\Examen-Regu\obj\Debug\Examen-Regu.pdb
